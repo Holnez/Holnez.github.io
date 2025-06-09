@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "ano": 1949,
+    "categoria": "Ficção",
+    "isbn": "9780451524935",
+    "disponivel": true
+  },
+  {
+    "id": 2,
+    "titulo": "Admirável Mundo Novo",
+    "autor": "Aldous Huxley",
+    "ano": 1932,
+    "categoria": "Ficção",
+    "isbn": "9780060850524",
+    "disponivel": true
+  },
+  {
+    "id": 3,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "ano": 1954,
+    "categoria": "Fantasia",
+    "isbn": "9780618640157",
+    "disponivel": false
+  },
+  {
+    "id": 4,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "ano": 1997,
+    "categoria": "Fantasia",
+    "isbn": "9788532511010",
+    "disponivel": true
+  },
+  {
+    "id": 5,
+    "titulo": "A Menina que Roubava Livros",
+    "autor": "Markus Zusak",
+    "ano": 2005,
+    "categoria": "Ficção",
+    "isbn": "9780385754729",
+    "disponivel": false
+  },
+  {
+    "id": 6,
+    "titulo": "Steve Jobs",
+    "autor": "Walter Isaacson",
+    "ano": 2011,
+    "categoria": "Biografia",
+    "isbn": "9780307743615",
+    "disponivel": true
+  },
+  {
+    "id": 7,
+    "titulo": "O Diário de Anne Frank",
+    "autor": "Anne Frank",
+    "ano": 1947,
+    "categoria": "Biografia",
+    "isbn": "9780385473781",
+    "disponivel": true
+  },
+  {
+    "id": 8,
+    "titulo": "Clean Code",
+    "autor": "Robert C. Martin",
+    "ano": 2008,
+    "categoria": "Técnico",
+    "isbn": "9780132350884",
+    "disponivel": true
+  },
+  {
+    "id": 9,
+    "titulo": "Java: Como Programar",
+    "autor": "Paul Deitel",
+    "ano": 2014,
+    "categoria": "Técnico",
+    "isbn": "9788543004793",
+    "disponivel": false
+  },
+  {
+    "id": 10,
+    "titulo": "Design Patterns",
+    "autor": "Erich Gamma",
+    "ano": 1994,
+    "categoria": "Técnico",
+    "isbn": "9780201633610",
+    "disponivel": true
+  },
+  {
+    "id": 11,
+    "titulo": "A Arte da Guerra",
+    "autor": "Sun Tzu",
+    "ano": -500,
+    "categoria": "Não Ficção",
+    "isbn": "9788537802687",
+    "disponivel": true
+  },
+  {
+    "id": 12,
+    "titulo": "O Príncipe",
+    "autor": "Maquiavel",
+    "ano": 1532,
+    "categoria": "Não Ficção",
+    "isbn": "9788572328754",
+    "disponivel": false
+  },
+  {
+    "id": 13,
+    "titulo": "Mindset",
+    "autor": "Carol S. Dweck",
+    "ano": 2006,
+    "categoria": "Não Ficção",
+    "isbn": "9780345472328",
+    "disponivel": true
+  },
+  {
+    "id": 14,
+    "titulo": "Pai Rico, Pai Pobre",
+    "autor": "Robert Kiyosaki",
+    "ano": 1997,
+    "categoria": "Não Ficção",
+    "isbn": "9788576849941",
+    "disponivel": false
+  },
+  {
+    "id": 15,
+    "titulo": "O Poder do Hábito",
+    "autor": "Charles Duhigg",
+    "ano": 2012,
+    "categoria": "Não Ficção",
+    "isbn": "9788539004119",
+    "disponivel": true
+  },
+  {
+    "id": 16,
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "ano": 1937,
+    "categoria": "Fantasia",
+    "isbn": "9780345339683",
+    "disponivel": true
+  },
+  {
+    "id": 17,
+    "titulo": "Percy Jackson e o Ladrão de Raios",
+    "autor": "Rick Riordan",
+    "ano": 2005,
+    "categoria": "Fantasia",
+    "isbn": "9780786856299",
+    "disponivel": true
+  },
+  {
+    "id": 18,
+    "titulo": "Corte de Espinhos e Rosas",
+    "autor": "Sarah J. Maas",
+    "ano": 2015,
+    "categoria": "Fantasia",
+    "isbn": "9781619634442",
+    "disponivel": false
+  },
+  {
+    "id": 19,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "ano": 1945,
+    "categoria": "Ficção",
+    "isbn": "9780451526342",
+    "disponivel": true
+  },
+  {
+    "id": 20,
+    "titulo": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "ano": 1813,
+    "categoria": "Ficção",
+    "isbn": "9780141439518",
+    "disponivel": true
+  },
+  {
+    "id": 21,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "ano": 1899,
+    "categoria": "Ficção",
+    "isbn": "9788535910667",
+    "disponivel": false
+  },
+  {
+    "id": 22,
+    "titulo": "O Cortiço",
+    "autor": "Aluísio Azevedo",
+    "ano": 1890,
+    "categoria": "Ficção",
+    "isbn": "9788508152082",
+    "disponivel": true
+  },
+  {
+    "id": 23,
+    "titulo": "A Cabana",
+    "autor": "William P. Young",
+    "ano": 2007,
+    "categoria": "Ficção",
+    "isbn": "9788537809662",
+    "disponivel": true
+  },
+  {
+    "id": 24,
+    "titulo": "A Garota do Lago",
+    "autor": "Charlie Donlea",
+    "ano": 2017,
+    "categoria": "Suspense",
+    "isbn": "9788501108765",
+    "disponivel": true
+  },
+  {
+    "id": 25,
+    "titulo": "Garota Exemplar",
+    "autor": "Gillian Flynn",
+    "ano": 2012,
+    "categoria": "Suspense",
+    "isbn": "9788580573749",
+    "disponivel": false
+  },
+  {
+    "id": 26,
+    "titulo": "O Código Da Vinci",
+    "autor": "Dan Brown",
+    "ano": 2003,
+    "categoria": "Suspense",
+    "isbn": "9780307474274",
+    "disponivel": true
+  },
+  {
+    "id": 27,
+    "titulo": "Inferno",
+    "autor": "Dan Brown",
+    "ano": 2013,
+    "categoria": "Suspense",
+    "isbn": "9780385537858",
+    "disponivel": true
+  },
+  {
+    "id": 28,
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "ano": 1943,
+    "categoria": "Fábula",
+    "isbn": "9788580631890",
+    "disponivel": true
+  },
+  {
+    "id": 29,
+    "titulo": "A Coragem de Ser Imperfeito",
+    "autor": "Brené Brown",
+    "ano": 2012,
+    "categoria": "Não Ficção",
+    "isbn": "9788539004119",
+    "disponivel": true
+  },
+  {
+    "id": 30,
+    "titulo": "Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo",
+    "autor": "Jeff Sutherland",
+    "ano": 2014,
+    "categoria": "Técnico",
+    "isbn": "9788550801481",
+    "disponivel": false
+  }
+]
