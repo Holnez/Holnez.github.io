@@ -1,0 +1,45 @@
+{
+    "Ficção": [
+      { "id": 1, "titulo": "1984", "autor": "George Orwell", "ano": 1949, "categoria": "Ficção", "isbn": "9780451524935" },
+      { "id": 2, "titulo": "Duna", "autor": "Frank Herbert", "ano": 1965, "categoria": "Ficção", "isbn": "9780441172719" },
+      { "id": 3, "titulo": "Neuromancer", "autor": "William Gibson", "ano": 1984, "categoria": "Ficção", "isbn": "9780441569595" },
+      { "id": 4, "titulo": "Fundação", "autor": "Isaac Asimov", "ano": 1951, "categoria": "Ficção", "isbn": "9780307292063" },
+      { "id": 5, "titulo": "O Conto da Aia", "autor": "Margaret Atwood", "ano": 1985, "categoria": "Ficção", "isbn": "9780385490818" }
+    ],
+    "História": [
+      { "id": 6, "titulo": "Sapiens", "autor": "Yuval Noah Harari", "ano": 2011, "categoria": "História", "isbn": "9780062316097" },
+      { "id": 7, "titulo": "Uma Breve História do Tempo", "autor": "Stephen Hawking", "ano": 1988, "categoria": "História", "isbn": "9780553380163" },
+      { "id": 8, "titulo": "Armas, Germes e Aço", "autor": "Jared Diamond", "ano": 1997, "categoria": "História", "isbn": "9780393317558" },
+      { "id": 9, "titulo": "A História da Riqueza do Homem", "autor": "Leo Huberman", "ano": 1936, "categoria": "História", "isbn": "9788535909410" },
+      { "id": 10, "titulo": "O Mundo de Ontem", "autor": "Stefan Zweig", "ano": 1942, "categoria": "História", "isbn": "9788574481532" }
+    ],
+    "Romance": [
+      { "id": 11, "titulo": "Orgulho e Preconceito", "autor": "Jane Austen", "ano": 1813, "categoria": "Romance", "isbn": "9780141439518" },
+      { "id": 12, "titulo": "Dom Casmurro", "autor": "Machado de Assis", "ano": 1899, "categoria": "Romance", "isbn": "9788573265560" },
+      { "id": 13, "titulo": "O Morro dos Ventos Uivantes", "autor": "Emily Brontë", "ano": 1847, "categoria": "Romance", "isbn": "9780141439556" },
+      { "id": 14, "titulo": "Capitães da Areia", "autor": "Jorge Amado", "ano": 1937, "categoria": "Romance", "isbn": "9788520931992" },
+      { "id": 15, "titulo": "Grande Sertão: Veredas", "autor": "João Guimarães Rosa", "ano": 1956, "categoria": "Romance", "isbn": "9788503010506" }
+    ],
+    "Terror": [
+      { "id": 16, "titulo": "O Iluminado", "autor": "Stephen King", "ano": 1977, "categoria": "Terror", "isbn": "9780307743657" },
+      { "id": 17, "titulo": "It: A Coisa", "autor": "Stephen King", "ano": 1986, "categoria": "Terror", "isbn": "9788576861080" },
+      { "id": 18, "titulo": "Drácula", "autor": "Bram Stoker", "ano": 1897, "categoria": "Terror", "isbn": "9780141439846" },
+      { "id": 19, "titulo": "Frankenstein", "autor": "Mary Shelley", "ano": 1818, "categoria": "Terror", "isbn": "9780141439471" },
+      { "id": 20, "titulo": "O Médico e o Monstro", "autor": "Robert Louis Stevenson", "ano": 1886, "categoria": "Terror", "isbn": "9788580451360" }
+    ],
+    "Ciência": [
+      { "id": 21, "titulo": "O Gene", "autor": "Siddhartha Mukherjee", "ano": 2016, "categoria": "Ciência", "isbn": "9788539007891" },
+      { "id": 22, "titulo": "Cosmos", "autor": "Carl Sagan", "ano": 1980, "categoria": "Ciência", "isbn": "9780345539434" },
+      { "id": 23, "titulo": "A Teia da Vida", "autor": "Fritjof Capra", "ano": 1996, "categoria": "Ciência", "isbn": "9788532308872" },
+      { "id": 24, "titulo": "O Andar do Bêbado", "autor": "Leonard Mlodinow", "ano": 2008, "categoria": "Ciência", "isbn": "9788535912434" },
+      { "id": 25, "titulo": "Uma Breve História de Quase Tudo", "autor": "Bill Bryson", "ano": 2003, "categoria": "Ciência", "isbn": "9788535909557" }
+    ],
+    "Fantasia": [
+      { "id": 26, "titulo": "O Senhor dos Anéis", "autor": "J.R.R. Tolkien", "ano": 1954, "categoria": "Fantasia", "isbn": "9780544003415" },
+      { "id": 27, "titulo": "Harry Potter e a Pedra Filosofal", "autor": "J.K. Rowling", "ano": 1997, "categoria": "Fantasia", "isbn": "9788532511012" },
+      { "id": 28, "titulo": "As Crônicas de Nárnia", "autor": "C.S. Lewis", "ano": 1956, "categoria": "Fantasia", "isbn": "9780066238500" },
+      { "id": 29, "titulo": "A Batalha do Apocalipse", "autor": "Eduardo Spohr", "ano": 2007, "categoria": "Fantasia", "isbn": "9788563219029" },
+      { "id": 30, "titulo": "O Nome do Vento", "autor": "Patrick Rothfuss", "ano": 2007, "categoria": "Fantasia", "isbn": "9788578270699" }
+    ]
+  }
+  
